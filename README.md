@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @KarthikTheCodemaster
+- 👀 I’m interested in Machine Learning and Python
+- 🌱 I’m currently learning about the mediapipe library. I'm also thinking about Pytorch but my preferred library is Tensorflow
+- 📫 If you want to reach me then just email me at karthik40811@gmail.com
